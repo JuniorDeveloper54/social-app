@@ -41,6 +41,7 @@ const Banner = () => {
             <Button variant="contained" color="primary"  >
               Search
 </Button>
+{/* This is only for looks. I will update it after my assignment result. */}
 
           </div>
         </div>
