@@ -1,0 +1,11 @@
+.web-Banner{
+    background: linear-gradient(rgba(15, 94, 156, 0.5), rgba(0, 0, 0, 0.5)),url("https://st4.depositphotos.com/14431644/26988/v/950/depositphotos_269886310-stock-illustration-confused-male-office-worker-sitting.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    padding:100px;
+    text-align: center;
+    color: white;
+    object-fit:cover;
+}
